@@ -17,26 +17,26 @@
 - **Pak Dhani (F5)**
 
 ### **WAKIL KETUA**
-- **Naim Golan (F4)**
+- **P Nainggolan (F4)**
 
 ### **SEKRETARIS**
 - **Rolly (E1)**
 
 ### **BENDAHARA**
-- **Soni (E3)**
+- **Doni (E3)**
 
 ### **KOORDINATOR OPERASIONAL**
-- **Neoice 2 (Divisi 1)**
+- **Nedi 2 (Divisi 1)**
 - **Logistik (Divisi 4)**
 - **THR: 1x Gaji**
 
 ### **KOORDINATOR BLOK**
 - **Bu Miranda (C4)**
 
-### **PENGURUS LAINNYA**
+### **PENASEHAT**
 - **Pak Dadang (D2)**
 - **Pak Melky (B4)**
-- **Pak Supeli (A2)**
+- **Pak Sutarli (A2)**
 - **Pak Eriza (E4)**
 - **Pak Elan (E5)**
 
