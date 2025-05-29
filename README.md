@@ -23,7 +23,7 @@
 - **Rolly (E1)**
 
 ### **BENDAHARA**
-- **Pak Doni (E3)**
+- **Bu Rika (A2)**
 - **Bu Miranda (C3)**
 
 ### **KOORDINATOR OPERASIONAL**
@@ -33,8 +33,8 @@
 ### **PENASEHAT**
 - **Pak Dadang (D2)**
 - **Pak Melky (B4)**
-- **Pak Sutarli (A2)**
-- **Pak Eriza (E4)**
+- **Pak Sutarli (F2)**
+- **Pak Erizal (E4)**
 - **Pak Elan (E5)**
 
 ---
