@@ -27,8 +27,10 @@
 - **Bu Miranda (C3)**
 
 ### **KOORDINATOR OPERASIONAL**
-- **Pak Nedi 2**
-  
+- **Pak Nedi (E2)**
+
+### **LOGISTIK**
+- **Pak Doni (F3)**
   
 ### **PENASEHAT**
 - **Pak Dadang (D2)**
